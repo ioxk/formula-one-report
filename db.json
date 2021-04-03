@@ -58,17 +58,17 @@
     },
     {
       "id": 8,
-      "name": "Ferrari",
-      "driver_one": "Leclerc",
-      "driver_two": "Sainz",
+      "name": "Alpine",
+      "driver_one": "Alonso",
+      "driver_two": "Ocon",
       "points": "0",
       "position": "8th"
     },
     {
       "id": 9,
-      "name": "Ferrari",
-      "driver_one": "Leclerc",
-      "driver_two": "Sainz",
+      "name": "Williams",
+      "driver_one": "Russell",
+      "driver_two": "Latifi",
       "points": "0",
       "position": "9th"
     },
