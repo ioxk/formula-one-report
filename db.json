@@ -80,5 +80,33 @@
       "points": "0",
       "position": "10th"
     }
+  ], 
+  "drivers_standings": [
+    {
+      "name": "Hamilton",
+      "points": "25"
+    },
+    {
+      "name": "Verstappen",
+      "points": "18"
+    },
+    {
+      "name": "Bottas",
+      "points": "16"
+    }
+  ], 
+    "teams_standings": [
+    {
+      "name": "Mercedes",
+      "points": "41"
+    },
+    {
+      "name": "Red Bull",
+      "points": "28"
+    },
+    {
+      "name": "McLaren",
+      "points": "18"
+    }
   ]
 }
