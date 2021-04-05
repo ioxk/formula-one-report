@@ -108,7 +108,8 @@
       "name": "McLaren",
       "points": "18"
     }
-  ], "news": [
+  ], 
+    "news": [
     {
       "date": "05-04-2021",
       "title": "Rake causes changes in teams dynamics",
