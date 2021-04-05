@@ -108,5 +108,11 @@
       "name": "McLaren",
       "points": "18"
     }
+  ], "news": [
+    {
+      "date": "05-04-2021"
+      "title": "Rake causes changes in teams dynamics",
+      "content": "The new regulations of the 2021 season forced teams to adjust to the decreased levels of downforce that new cars now produce. The cause of this new reality that aerodynamicistz are facing is the area that is now cut off at the rear of the floor. The teams that are expected to be negatively affected from this change are those that have followed a low rake design approach such as Mercedes and Aston Martin. Red Bull will find themselves gaining advantage due to the high rake design of the the car. The Austrian team are running with a rake angle ranging close to 2 degrees depending on the race specific requirements. The rest of the teams on the grid are following moderate angle design strategies and the effect of the change will not be as significant on their performance."
+    }
   ]
 }
