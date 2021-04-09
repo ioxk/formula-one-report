@@ -93,6 +93,34 @@
     {
       "name": "Bottas",
       "points": "16"
+    },
+    {
+      "name": "Norris",
+      "points": "12"
+    },
+    {
+      "name": "Perez",
+      "points": "10"
+    },
+    {
+      "name": "Leclerc",
+      "points": "8"
+    },
+    {
+      "name": "Ricciardo",
+      "points": "6"
+    },
+    {
+      "name": "Sainz",
+      "points": "4"
+    },
+    {
+      "name": "Tsunoda",
+      "points": "2"
+    },
+    {
+      "name": "Stroll",
+      "points": "1"
     }
   ], 
     "teams_standings": [
@@ -107,6 +135,18 @@
     {
       "name": "McLaren",
       "points": "18"
+    },
+    {
+      "name": "Ferrari",
+      "points": "12"
+    },
+    {
+      "name": "Alpha Tauri",
+      "points": "2"
+    },
+    {
+      "name": "Aston Martin",
+      "points": "1"
     }
   ], 
     "news": [
