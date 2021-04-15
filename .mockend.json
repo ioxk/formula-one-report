@@ -1,0 +1,159 @@
+{
+  "teams": [
+    {
+      "id": 2,
+      "name": "Mercedes",
+      "driver_one": "Hamilton",
+      "driver_two": "Bottas",
+      "points": "41",
+      "position": "1st"
+    },
+    {
+      "id": 3,
+      "name": "Red Bull",
+      "driver_one": "Verstappen",
+      "driver_two": "Perez",
+      "points": "28",
+      "position": "2nd"
+    },
+    {
+      "id": 4,
+      "name": "McLaren",
+      "driver_one": "Ricciardo",
+      "driver_two": "Norris",
+      "points": "18",
+      "position": "3rd"
+    },
+    {
+      "id": 1,
+      "name": "Ferrari",
+      "driver_one": "Leclerc",
+      "driver_two": "Sainz",
+      "points": "12",
+      "position": "4th"
+    },
+    {
+      "id": 5,
+      "name": "Alpha Tauri",
+      "driver_one": "Gasly",
+      "driver_two": "Tsunoda",
+      "points": "2",
+      "position": "5th"
+    },
+    {
+      "id": 6,
+      "name": "Aston Martin",
+      "driver_one": "Vettel",
+      "driver_two": "Stroll",
+      "points": "1",
+      "position": "6th"
+    },
+    {
+      "id": 7,
+      "name": "Alfa Romeo",
+      "driver_one": "Raikkonen",
+      "driver_two": "Giovinazzi",
+      "points": "0",
+      "position": "7th"
+    },
+    {
+      "id": 8,
+      "name": "Alpine",
+      "driver_one": "Alonso",
+      "driver_two": "Ocon",
+      "points": "0",
+      "position": "8th"
+    },
+    {
+      "id": 9,
+      "name": "Williams",
+      "driver_one": "Russell",
+      "driver_two": "Latifi",
+      "points": "0",
+      "position": "9th"
+    },
+    {
+      "id": 10,
+      "name": "Haas",
+      "driver_one": "Schumacher",
+      "driver_two": "Maze$pin",
+      "points": "0",
+      "position": "10th"
+    }
+  ], 
+  "drivers_standings": [
+    {
+      "name": "Hamilton",
+      "points": "25"
+    },
+    {
+      "name": "Verstappen",
+      "points": "18"
+    },
+    {
+      "name": "Bottas",
+      "points": "16"
+    },
+    {
+      "name": "Norris",
+      "points": "12"
+    },
+    {
+      "name": "Perez",
+      "points": "10"
+    },
+    {
+      "name": "Leclerc",
+      "points": "8"
+    },
+    {
+      "name": "Ricciardo",
+      "points": "6"
+    },
+    {
+      "name": "Sainz",
+      "points": "4"
+    },
+    {
+      "name": "Tsunoda",
+      "points": "2"
+    },
+    {
+      "name": "Stroll",
+      "points": "1"
+    }
+  ], 
+    "teams_standings": [
+    {
+      "name": "Mercedes",
+      "points": "41"
+    },
+    {
+      "name": "Red Bull",
+      "points": "28"
+    },
+    {
+      "name": "McLaren",
+      "points": "18"
+    },
+    {
+      "name": "Ferrari",
+      "points": "12"
+    },
+    {
+      "name": "Alpha Tauri",
+      "points": "2"
+    },
+    {
+      "name": "Aston Martin",
+      "points": "1"
+    }
+  ], 
+    "news": [
+    {
+      "date": "05-04-2021",
+      "title": "Rake causes changes in teams dynamics",
+      "content": "The new regulations of the 2021 season forced teams to adjust to the decreased levels of downforce that new cars now produce. The cause of this new reality that aerodynamicists are facing is the area that is now cut off at the rear of the floor. The teams that are expected to be negatively affected from this change are those that have followed a low rake design approach such as Mercedes and Aston Martin. Red Bull will find themselves gaining advantage due to the high rake design of the car. The Austrian team are running with a rake angle ranging close to 2 degrees depending on the race specific requirements. The rest of the teams on the grid are following moderate angle design strategies and the effect of the change is expected not to be as significant on their performance."
+    }
+  ]
+}
