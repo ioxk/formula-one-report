@@ -5,7 +5,7 @@
       "name": "Mercedes",
       "driver_one": "Hamilton",
       "driver_two": "Bottas",
-      "points": "41",
+      "points": "60",
       "position": "1st"
     },
     {
@@ -13,7 +13,7 @@
       "name": "Red Bull",
       "driver_one": "Verstappen",
       "driver_two": "Perez",
-      "points": "28",
+      "points": "53",
       "position": "2nd"
     },
     {
@@ -21,7 +21,7 @@
       "name": "McLaren",
       "driver_one": "Ricciardo",
       "driver_two": "Norris",
-      "points": "18",
+      "points": "41",
       "position": "3rd"
     },
     {
@@ -29,7 +29,7 @@
       "name": "Ferrari",
       "driver_one": "Leclerc",
       "driver_two": "Sainz",
-      "points": "12",
+      "points": "8",
       "position": "4th"
     },
     {
@@ -37,7 +37,7 @@
       "name": "Alpha Tauri",
       "driver_one": "Gasly",
       "driver_two": "Tsunoda",
-      "points": "2",
+      "points": "8",
       "position": "5th"
     },
     {
@@ -45,7 +45,7 @@
       "name": "Aston Martin",
       "driver_one": "Vettel",
       "driver_two": "Stroll",
-      "points": "1",
+      "points": "5",
       "position": "6th"
     },
     {
