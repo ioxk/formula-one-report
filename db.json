@@ -29,7 +29,7 @@
       "name": "Ferrari",
       "driver_one": "Leclerc",
       "driver_two": "Sainz",
-      "points": "8",
+      "points": "34",
       "position": "4th"
     },
     {
@@ -49,20 +49,20 @@
       "position": "6th"
     },
     {
+      "id": 8,
+      "name": "Alpine",
+      "driver_one": "Alonso",
+      "driver_two": "Ocon",
+      "points": "3",
+      "position": "8th"
+    },
+    {
       "id": 7,
       "name": "Alfa Romeo",
       "driver_one": "Raikkonen",
       "driver_two": "Giovinazzi",
       "points": "0",
       "position": "7th"
-    },
-    {
-      "id": 8,
-      "name": "Alpine",
-      "driver_one": "Alonso",
-      "driver_two": "Ocon",
-      "points": "0",
-      "position": "8th"
     },
     {
       "id": 9,
@@ -84,43 +84,43 @@
   "drivers_standings": [
     {
       "name": "Hamilton",
-      "points": "25"
+      "points": "44"
     },
     {
       "name": "Verstappen",
-      "points": "18"
+      "points": "43"
+    },
+    {
+      "name": "Leclerc",
+      "points": "27"
+    },
+    {
+      "name": "Norris",
+      "points": "20"
     },
     {
       "name": "Bottas",
       "points": "16"
     },
     {
-      "name": "Norris",
-      "points": "12"
+      "name": "Sainz",
+      "points": "14"
+    },
+    {
+      "name": "Ricciardo",
+      "points": "14"
     },
     {
       "name": "Perez",
       "points": "10"
     },
     {
-      "name": "Leclerc",
-      "points": "8"
-    },
-    {
-      "name": "Ricciardo",
+      "name": "Gasly",
       "points": "6"
     },
     {
-      "name": "Sainz",
-      "points": "4"
-    },
-    {
-      "name": "Tsunoda",
-      "points": "2"
-    },
-    {
       "name": "Stroll",
-      "points": "1"
+      "points": "5"
     }
   ], 
     "teams_standings": [
