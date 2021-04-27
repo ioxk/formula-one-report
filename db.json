@@ -126,27 +126,43 @@
     "teams_standings": [
     {
       "name": "Mercedes",
-      "points": "41"
+      "points": "60"
     },
     {
       "name": "Red Bull",
-      "points": "28"
+      "points": "53"
     },
     {
       "name": "McLaren",
-      "points": "18"
+      "points": "41"
     },
     {
       "name": "Ferrari",
-      "points": "12"
+      "points": "34"
     },
     {
       "name": "Alpha Tauri",
-      "points": "2"
+      "points": "8"
     },
     {
       "name": "Aston Martin",
-      "points": "1"
+      "points": "5"
+    },
+    {
+      "name": "Alpine",
+      "points": "3"
+    },
+    {
+      "name": "Alfa Romeo",
+      "points": "0"
+    },
+    {
+      "name": "Williams",
+      "points": "0"
+    },
+    {
+      "name": "Haas",
+      "points": "0"
     }
   ], 
     "news": [
